@@ -12,11 +12,11 @@ hello I'm trying to add an image
 
 
 
-![ets](http://localhost:1313/project/img/hammock.jpg)
+![ets](https://remilarius.github.io/project/img/hammock.jpg)
 
-![ets](img/prusa.jpg)
+![ets]({{< img "images/prusa.png" >}})
 
-![ets](http://localhost:1313/project/img/dragongrace.jpg)
+![ets](https://remilarius.github.io/project/img/dragongrace.jpg)
 
 {{< image src="/img/prusa.jpg" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
 
