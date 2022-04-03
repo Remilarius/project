@@ -46,9 +46,12 @@ This is my project page for all the projects I&amp;rsquo;ve done during my time 
 hello I&amp;rsquo;m trying to add an image</description>
       <content>&lt;p&gt;testestsetset&lt;/p&gt;
 &lt;p&gt;hello I&amp;rsquo;m trying to add an image&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;images/prusasmall.jpg&#34; alt=&#34;ets&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;tn.png&#34; alt=&#34;ets&#34;&gt;&lt;/p&gt;
-&lt;image src= &#34;first_post/images/prusasmall.jpg&#34; alt=&#34;Hello Friend&#34; position=&#34;center&#34; style=&#34;border-radius: 8px;&#34;&gt;</content>
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/img/hammock.jpg&#34; alt=&#34;ets&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://remilarius.github.io/project/prusa.jpg&#34; alt=&#34;ets&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/project/img/hammock.jpg&#34; alt=&#34;ets&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;img/prusasmall.jpg&#34; alt=&#34;ets&#34;&gt;&lt;/p&gt;
+&lt;image src= &#34;first_post/prusasmall.jpg&#34; alt=&#34;Hello Friend&#34; position=&#34;center&#34; style=&#34;border-radius: 8px;&#34;&gt;
+&lt;image src= &#34;assests/img/prusasmall.jpg&#34; alt=&#34;Hello Friend&#34; position=&#34;center&#34; style=&#34;border-radius: 8px;&#34;&gt;</content>
     </item>
     
   </channel>
