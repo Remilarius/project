@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>https://remilarius.github.io/project/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 15:44:55 -0400</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Mass Accelerator</title><link>https://remilarius.github.io/project/projects/massaccelerator/</link><pubDate>Sat, 02 Apr 2022 15:44:55 -0400</pubDate><guid>https://remilarius.github.io/project/projects/massaccelerator/</guid><description>I&amp;rsquo;m not suppose to call it a railgun.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p>
-&lt;p>&lt;img src="img/prusasmall.jpg" alt="psrua">&lt;/p></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>https://remilarius.github.io/project/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 15:44:55 -0400</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Mass Accelerator</title><link>https://remilarius.github.io/project/projects/massaccelerator/</link><pubDate>Sat, 02 Apr 2022 15:44:55 -0400</pubDate><guid>https://remilarius.github.io/project/projects/massaccelerator/</guid><description>I&amp;rsquo;m not suppose to call it a railgun.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
 My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.
 I live in Claverly Hall in Adams House.
 This is my project page for all the projects I&amp;rsquo;ve done during my time at college.</description><content>&lt;p>Hello there!&lt;/p>
@@ -9,9 +8,8 @@ This is my project page for all the projects I&amp;rsquo;ve done during my time 
 hello I&amp;rsquo;m trying to add an image
 Hello Friend!</description><content>&lt;p>testestsetset&lt;/p>
 &lt;p>hello I&amp;rsquo;m trying to add an image&lt;/p>
-&lt;p>&lt;img src="http://localhost:1313/project/img/hammock.jpg" alt="ets">&lt;/p>
-&lt;p>&lt;img src="img/prusa.jpg" alt="ets">&lt;/p>
-&lt;p>&lt;img src="http://localhost:1313/project/img/dragongrace.jpg" alt="ets">&lt;/p>
+&lt;p>&lt;img src="https://remilarius.github.io/project/img/hammock.jpg" alt="ets">&lt;/p>
+&lt;p>&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="ets">&lt;/p>
 &lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="border-radius: 8px;" />
 &lt;figure class="center" >
 &lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" style="border-radius: 8px;" />

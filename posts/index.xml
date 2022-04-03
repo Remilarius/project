@@ -2,9 +2,8 @@
 hello I&amp;rsquo;m trying to add an image
 Hello Friend!</description><content>&lt;p>testestsetset&lt;/p>
 &lt;p>hello I&amp;rsquo;m trying to add an image&lt;/p>
-&lt;p>&lt;img src="http://localhost:1313/project/img/hammock.jpg" alt="ets">&lt;/p>
-&lt;p>&lt;img src="img/prusa.jpg" alt="ets">&lt;/p>
-&lt;p>&lt;img src="http://localhost:1313/project/img/dragongrace.jpg" alt="ets">&lt;/p>
+&lt;p>&lt;img src="https://remilarius.github.io/project/img/hammock.jpg" alt="ets">&lt;/p>
+&lt;p>&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="ets">&lt;/p>
 &lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="border-radius: 8px;" />
 &lt;figure class="center" >
 &lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" style="border-radius: 8px;" />
