@@ -1,6 +1,6 @@
 baseURL = 'https://remilarius.github.io/project/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Joy Line'
 theme = "terminal"
 paginate = 5
 
@@ -13,7 +13,7 @@ paginate = 5
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 5
 
   # show selector to switch language
   showLanguageSelector = false
@@ -53,6 +53,7 @@ paginate = 5
   # can be overridden in a page's front-matter
   # TocTitle = "Table of Contents" # default
 
+  utterancesRepo = "remilarius/project"
 
 [params.twitter]
   # set Twitter handles for Twitter cards
@@ -78,8 +79,8 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
-      logoHomeLink = "/"
+      logoText = "Joy Lin"
+      logoHomeLink = "/project"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -87,6 +88,12 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "projects"
+        name = "Projects"
+        url = "/Projects"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
