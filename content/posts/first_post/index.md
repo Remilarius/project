@@ -14,7 +14,6 @@ hello I'm trying to add an image
 
 ![ets](https://remilarius.github.io/project/img/hammock.jpg)
 
-![ets]({{< img "images/prusa.png" >}})
 
 ![ets](https://remilarius.github.io/project/img/dragongrace.jpg)
 
