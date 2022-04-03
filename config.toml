@@ -14,6 +14,9 @@ staticDir = ["static", "img"]
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
 
+
+  canonifyurls = true
+
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
 
