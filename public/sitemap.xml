@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://remilarius.github.io/project/projects/massaccelerator/</loc>
+    <loc>https://remilarius.github.io/project/personal-projects/massaccelerator/</loc>
     <lastmod>2022-04-02T15:44:55-04:00</lastmod>
   </url><url>
-    <loc>https://remilarius.github.io/project/projects/</loc>
+    <loc>https://remilarius.github.io/project/personal-projects/</loc>
     <lastmod>2022-04-02T15:44:55-04:00</lastmod>
   </url><url>
     <loc>https://remilarius.github.io/project/</loc>
@@ -15,7 +15,17 @@
   </url><url>
     <loc>https://remilarius.github.io/project/categories/</loc>
   </url><url>
-    <loc>https://remilarius.github.io/project/posts/first_post/</loc>
+    <loc>https://remilarius.github.io/project/class-projects/</loc>
+  </url><url>
+    <loc>https://remilarius.github.io/project/personal-projects/ebike/</loc>
+  </url><url>
+    <loc>https://remilarius.github.io/project/tags/ee/</loc>
+  </url><url>
+    <loc>https://remilarius.github.io/project/posts/post1/</loc>
+  </url><url>
+    <loc>https://remilarius.github.io/project/tags/me/</loc>
+  </url><url>
+    <loc>https://remilarius.github.io/project/class-projects/minecraftbeedrone/</loc>
   </url><url>
     <loc>https://remilarius.github.io/project/posts/</loc>
   </url><url>

@@ -1,10 +1,24 @@
-baseURL = 'https://remilarius.github.io/project/'
++++
+title = "UC"
+date = "04-04-2022"
+author = "Joy Lin, Ivor Zimmerman"
+authorTwitter = "" #do not include @
+cover = ""
+tags = [""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
++++
+
+alternative toml
+
+<!-- baseURL = 'https://remilarius.github.io/project/'
 languageCode = 'en-us'
-title = 'Joy Line'
 theme = "terminal"
 paginate = 5
 
-staticDir = ["static", "img"]
 
 [params]
   # dir name of your main content (default is `content/posts`).
@@ -93,12 +107,19 @@ staticDir = ["static", "img"]
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/Projects"
-
+        identifier = "Personal Projects"
+        name = "Personal Projects"
+        url = "/personalprojects"
+      [[languages.en.menu.main]]
+        identifier = "classprojects"
+        name = "Class Projects"
+        url = "/classprojects"
+      [[languages.en.menu.main]]
+        identifier = "studentgov"
+        name = "StudentGov"
+        url = "/studentgov"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true
+      unsafe = true -->

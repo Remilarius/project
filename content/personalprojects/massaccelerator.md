@@ -13,5 +13,3 @@ hideComments = false
 +++
 
 I'm not suppose to call it a railgun.
-
-{{< image src="" alt="Hello Friend" position="center" style="border-radius: 8px;" >}}
