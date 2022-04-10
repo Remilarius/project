@@ -1,0 +1,29 @@
+body{
+	background-color: #fff1e0;
+	color: black;
+}
+
+figure{
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+figcaption{
+	text-align: center;
+	color: white;
+	font: ;
+}
+
+:root{--accent: cadetblue;}
+
+.post-meta{
+	color:  cadetblue;
+}
+
+.logo{
+	color: white;
+}
+
+.post-tags a {
+	color: teal;
+}

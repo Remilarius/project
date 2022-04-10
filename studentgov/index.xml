@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Studentgovs on Joy Lin</title><link>https://remilarius.github.io/project/studentgov/</link><description>Recent content in Studentgovs on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://remilarius.github.io/project/studentgov/index.xml" rel="self" type="application/rss+xml"/><item><title>UC</title><link>https://remilarius.github.io/project/studentgov/uc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/uc/</guid><description>alternative toml</description><content>&lt;p>alternative toml&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Studentgovs on Joy Lin</title><link>https://remilarius.github.io/project/studentgov/</link><description>Recent content in Studentgovs on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://remilarius.github.io/project/studentgov/index.xml" rel="self" type="application/rss+xml"/><item><title>UC</title><link>https://remilarius.github.io/project/studentgov/uc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/uc/</guid><description>alternative toml
+{{ else }} {{ end }} --</description><content>&lt;p>alternative toml&lt;/p>
+&lt;!-- {{ if isset $.Site.Params "favicon" }}
+&lt;link rel="shortcut icon" href="{{ $.Site.Params.favicon | absURL }}">
+{{ else }}
+&lt;link rel="shortcut icon" href="{{ printf "img/favicon/%s.png" ($.Site.Params.ThemeColor | default "orange") | absURL }}">
+{{ end }}
+-->
 &lt;!-- baseURL = 'https://remilarius.github.io/project/'
 languageCode = 'en-us'
 theme = "terminal"

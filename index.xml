@@ -1,39 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Lasercutter Settings</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description/><content/></item><item><title>Mass Accelerator</title><link>https://remilarius.github.io/project/personalprojects/massaccelerator/</link><pubDate>Sat, 02 Apr 2022 15:44:55 -0400</pubDate><guid>https://remilarius.github.io/project/personalprojects/massaccelerator/</guid><description>I&amp;rsquo;m not suppose to call it a railgun.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p></content></item><item><title>Lasercutter Settings</title><link>https://remilarius.github.io/project/classprojects/lasercuttersettings/</link><pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate><guid>https://remilarius.github.io/project/classprojects/lasercuttersettings/</guid><description/><content>&lt;p>Wood 1/8&amp;quot;. 40s|100p|1000f
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Landing</title><link>https://remilarius.github.io/project/posts/post1/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/post1/</guid><description>testestsetset
+hello I&amp;rsquo;m trying to add an image
+image gallery and figure settings
+testest
+vofdk;l,fdvf
+Hello Friend! Fig2. Averages per Fig2. Averages per Joy Lin, ME Fig2. Averages per Fig2. Averages per</description><content>&lt;p>testestsetset&lt;/p>
+&lt;p>hello I&amp;rsquo;m trying to add an image&lt;/p>
+&lt;p>image gallery and figure settings&lt;/p>
+&lt;p>testest&lt;/p>
+&lt;p>vofdk;l,fdvf&lt;/p>
+&lt;p>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="float:left; width:40%; margin:1%" />
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:right; width:40%; margin:1%" />
+&lt;/p>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="hello" style = "float:right;width:40%;"/>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:right; width:40%; margin-bottom: 5%;margin-right: 5%" />
+&lt;figure class="center" >
+&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="Hello Friend" style="float:center; border-radius: 5px;width:250px;height:250px" />
+&lt;figcaption class="center" style="color: white;" >Hello Friend!&lt;/figcaption>
+&lt;/figure>
+&lt;div>
+&lt;figure class ="center" padding-right= "100px"; padding-left= "100px";>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:right"/>
+&lt;figcaption style="width:45%;float:left;color:white"> Fig2. Averages per&lt;/figcaption>
+&lt;figcaption style="width:45%;float:right;color:white"> Fig2. Averages per&lt;/figcaption>
+&lt;/figure>
+&lt;/div>
+&lt;div style="float: center;">
+&lt;figure class ="right">
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "30%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/spacer.png" width= "5%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "30%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/spacer.png" width= "5%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "30%" style= "float:left"/>
+&lt;figcaption style="width:30%;float:left;color:white"> Joy Lin, ME&lt;/figcaption>
+&lt;figcaption style="width:5%;float:left;">&lt;/figcaption>
+&lt;figcaption style="width:30%;float:left;color:white"> Fig2. Averages per&lt;/figcaption>
+&lt;figcaption style="width:5%;float:left;">&lt;/figcaption>
+&lt;figcaption style="width:30%;float:left;color:white"> Fig2. Averages per&lt;/figcaption>
+&lt;/figure>
+&lt;/div></content></item><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>I want to see my post coeveresfdovbjn
+dheafjnvldkcvefjsdlkpokjknl
+Fig2. Averages per Fig2. Averages per</description><content>&lt;p>I want to see my post coeveresfdovbjn&lt;/p>
+&lt;p>dheafjnvldkcvefjsdlkpokjknl&lt;/p>
+&lt;div>
+&lt;figure class ="center" padding-right= "100px"; padding-left= "100px";>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:right"/>
+&lt;figcaption style="width:45%;float:left;color:white"> Fig2. Averages per&lt;/figcaption>
+&lt;figcaption style="width:45%;float:right;color:white"> Fig2. Averages per&lt;/figcaption>
+&lt;/figure>
+&lt;/div></content></item><item><title>LaserCutter Settings</title><link>https://remilarius.github.io/project/classprojects/lasercuttersettings/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/lasercuttersettings/</guid><description>Priority:
+Wood 1/8&amp;quot;. 40s|100p|1000f Wood 1/4&amp;quot;. 12s|100p|500f
+Acryllic 1/4&amp;quot;. 12s|100p|5000f Acryllic 1/8&amp;quot;. 20s|100p|5000f
+Test: 1/8&amp;quot; acryllic at 25s?
+Notes:</description><content>&lt;p>Priority:&lt;/p>
+&lt;p>Wood 1/8&amp;quot;. 40s|100p|1000f
 Wood 1/4&amp;quot;. 12s|100p|500f&lt;/p>
 &lt;p>Acryllic 1/4&amp;quot;. 12s|100p|5000f
 Acryllic 1/8&amp;quot;. 20s|100p|5000f&lt;/p>
-&lt;p>test: 1/8&amp;quot; acry at 25s?&lt;/p></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
+&lt;p>Test: 1/8&amp;quot; acryllic at 25s?&lt;/p>
+&lt;p>Notes:&lt;/p></content></item><item><title>Mass Accelerator</title><link>https://remilarius.github.io/project/personalprojects/massaccelerator/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/massaccelerator/</guid><description>I&amp;rsquo;m not suppose to call it a railgun.estsetsetes</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.estsetsetes&lt;/p></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
 My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.
 I live in Claverly Hall in Adams House.
 This is my project page for all the projects I&amp;rsquo;ve done during my time at college.</description><content>&lt;p>Hello there!&lt;/p>
 &lt;p>My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.&lt;/p>
 &lt;p>I live in Claverly Hall in Adams House.&lt;/p>
-&lt;p>This is my project page for all the projects I&amp;rsquo;ve done during my time at college.&lt;/p></content></item><item><title>Landing</title><link>https://remilarius.github.io/project/posts/post1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/post1/</guid><description>testestsetset
-hello I&amp;rsquo;m trying to add an image
-testest
-Hello Friend! Fig2. Averages per metric ton Fig2. Averages per metric ton</description><content>&lt;p>testestsetset&lt;/p>
-&lt;p>hello I&amp;rsquo;m trying to add an image&lt;/p>
-&lt;p>testest&lt;/p>
-&lt;p>
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="float:left; width:40%; margin:1%" />
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:right; width:40%; margin:1%" />
-&lt;/p>
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:center; width:50%; padding:20px" />
-&lt;figure class="left" >
-&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="Hello Friend" style="float:; border-radius: 5px;width:250px;height:250px" />
-&lt;figcaption class="center" style="color: white;" >Hello Friend!&lt;/figcaption>
-&lt;/figure>
-&lt;div style="float: center; ">
-&lt;figure class ="center">
-&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:left" padding= "10px 10px"/>
-&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:right"/>
-&lt;figcaption style="width:45%;float:left;"> Fig2. Averages per metric ton&lt;/figcaption>
-&lt;figcaption style="width:45%;float:right"> Fig2. Averages per metric ton&lt;/figcaption>
-&lt;/figure>
-&lt;/div></content></item><item><title>Minecraft Bee Drone</title><link>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</guid><description/><content/></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
+&lt;p>This is my project page for all the projects I&amp;rsquo;ve done during my time at college.&lt;/p></content></item><item><title>Minecraft Bee Drone</title><link>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</guid><description/><content/></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
 Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.</description><content>&lt;p>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.&lt;/p>
 &lt;p>Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.&lt;/p>
-&lt;p>We placed 3rd!&lt;/p></content></item><item><title>UC</title><link>https://remilarius.github.io/project/studentgov/uc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/uc/</guid><description>alternative toml</description><content>&lt;p>alternative toml&lt;/p>
+&lt;p>We placed 3rd!&lt;/p></content></item><item><title>UC</title><link>https://remilarius.github.io/project/studentgov/uc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/uc/</guid><description>alternative toml
+{{ else }} {{ end }} --</description><content>&lt;p>alternative toml&lt;/p>
+&lt;!-- {{ if isset $.Site.Params "favicon" }}
+&lt;link rel="shortcut icon" href="{{ $.Site.Params.favicon | absURL }}">
+{{ else }}
+&lt;link rel="shortcut icon" href="{{ printf "img/favicon/%s.png" ($.Site.Params.ThemeColor | default "orange") | absURL }}">
+{{ end }}
+-->
 &lt;!-- baseURL = 'https://remilarius.github.io/project/'
 languageCode = 'en-us'
 theme = "terminal"
