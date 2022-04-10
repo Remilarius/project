@@ -29,7 +29,7 @@ params:
   showLastUpdated : false
 
   # set a custom favicon (default is a `themeColor` square)
-  favicon : "favicon.jpg"
+  #favicon : "favicon.jpg"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix : Updated
