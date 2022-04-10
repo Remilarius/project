@@ -7,7 +7,7 @@ params:
   contentTypeName: posts
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor: orange
+  themeColor: green
 
   showMenuItems: 6
 
@@ -29,7 +29,7 @@ params:
   showLastUpdated : false
 
   # set a custom favicon (default is a `themeColor` square)
-  # favicon : "favicon.ico"
+  favicon : "favicon.jpg"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
   # updatedDatePrefix : Updated
@@ -78,17 +78,15 @@ languages:
         name: StudentGov
         url: /studentgov
 
-params.advanced:
-    customCSS: css/custom.css 
-    customJSBefore:
-    customJS: 
+params:
+    customcss: 
+      - ccs/style.css 
 
 markup:
   goldmark:
     renderer:
       unsafe: true
 
-canonifyurls : true
+canonifyurls: true
 
-utterancesRepo : remilarius/project
-
+utterancesRepo: remilarius/project

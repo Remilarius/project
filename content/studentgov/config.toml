@@ -1,27 +1,4 @@
-+++
-title = "UC"
-date = "04-04-2022"
-author = "Joy Lin, Ivor Zimmerman"
-authorTwitter = "" #do not include @
-cover = ""
-tags = [""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-readingTime = false
-hideComments = false
-+++
-
-alternative toml
-
-<!-- {{ if isset $.Site.Params "favicon" }}
-  <link rel="shortcut icon" href="{{ $.Site.Params.favicon | absURL }}">
-{{ else }}
-  <link rel="shortcut icon" href="{{ printf "img/favicon/%s.png" ($.Site.Params.ThemeColor | default "orange") | absURL }}">
-{{ end }}
- -->
-
-<!-- baseURL = 'https://remilarius.github.io/project/'
+baseURL = 'https://remilarius.github.io/project/'
 languageCode = 'en-us'
 theme = "terminal"
 paginate = 5
@@ -35,9 +12,6 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "orange"
 
-
-  canonifyurls = true
-
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 5
 
@@ -48,7 +22,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -129,4 +103,4 @@ paginate = 5
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true -->
+      unsafe = true
