@@ -1,17 +1,122 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Terminal</title><link>https://remilarius.github.io/project/</link><description>Recent content on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 02 Apr 2022 15:44:55 -0400</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Mass Accelerator</title><link>https://remilarius.github.io/project/projects/massaccelerator/</link><pubDate>Sat, 02 Apr 2022 15:44:55 -0400</pubDate><guid>https://remilarius.github.io/project/projects/massaccelerator/</guid><description>I&amp;rsquo;m not suppose to call it a railgun.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Lasercutter Settings</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description/><content/></item><item><title>Mass Accelerator</title><link>https://remilarius.github.io/project/personalprojects/massaccelerator/</link><pubDate>Sat, 02 Apr 2022 15:44:55 -0400</pubDate><guid>https://remilarius.github.io/project/personalprojects/massaccelerator/</guid><description>I&amp;rsquo;m not suppose to call it a railgun.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p></content></item><item><title>Lasercutter Settings</title><link>https://remilarius.github.io/project/classprojects/lasercuttersettings/</link><pubDate>Tue, 26 Mar 2019 08:47:11 +0100</pubDate><guid>https://remilarius.github.io/project/classprojects/lasercuttersettings/</guid><description/><content>&lt;p>Wood 1/8&amp;quot;. 40s|100p|1000f
+Wood 1/4&amp;quot;. 12s|100p|500f&lt;/p>
+&lt;p>Acryllic 1/4&amp;quot;. 12s|100p|5000f
+Acryllic 1/8&amp;quot;. 20s|100p|5000f&lt;/p>
+&lt;p>test: 1/8&amp;quot; acry at 25s?&lt;/p></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
 My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.
 I live in Claverly Hall in Adams House.
 This is my project page for all the projects I&amp;rsquo;ve done during my time at college.</description><content>&lt;p>Hello there!&lt;/p>
 &lt;p>My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.&lt;/p>
 &lt;p>I live in Claverly Hall in Adams House.&lt;/p>
-&lt;p>This is my project page for all the projects I&amp;rsquo;ve done during my time at college.&lt;/p></content></item><item><title>Landing</title><link>https://remilarius.github.io/project/posts/first_post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/first_post/</guid><description>testestsetset
+&lt;p>This is my project page for all the projects I&amp;rsquo;ve done during my time at college.&lt;/p></content></item><item><title>Landing</title><link>https://remilarius.github.io/project/posts/post1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/post1/</guid><description>testestsetset
 hello I&amp;rsquo;m trying to add an image
-Hello Friend!</description><content>&lt;p>testestsetset&lt;/p>
+testest
+Hello Friend! Fig2. Averages per metric ton Fig2. Averages per metric ton</description><content>&lt;p>testestsetset&lt;/p>
 &lt;p>hello I&amp;rsquo;m trying to add an image&lt;/p>
-&lt;p>&lt;img src="https://remilarius.github.io/project/img/hammock.jpg" alt="ets">&lt;/p>
-&lt;p>&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="ets">&lt;/p>
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="border-radius: 8px;" />
-&lt;figure class="center" >
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" style="border-radius: 8px;" />
-&lt;figcaption class="right" style="color: red;" >Hello Friend!&lt;/figcaption>
-&lt;/figure></content></item></channel></rss>
+&lt;p>testest&lt;/p>
+&lt;p>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="float:left; width:40%; margin:1%" />
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:right; width:40%; margin:1%" />
+&lt;/p>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:center; width:50%; padding:20px" />
+&lt;figure class="left" >
+&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="Hello Friend" style="float:; border-radius: 5px;width:250px;height:250px" />
+&lt;figcaption class="center" style="color: white;" >Hello Friend!&lt;/figcaption>
+&lt;/figure>
+&lt;div style="float: center; ">
+&lt;figure class ="center">
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:left" padding= "10px 10px"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:right"/>
+&lt;figcaption style="width:45%;float:left;"> Fig2. Averages per metric ton&lt;/figcaption>
+&lt;figcaption style="width:45%;float:right"> Fig2. Averages per metric ton&lt;/figcaption>
+&lt;/figure>
+&lt;/div></content></item><item><title>Minecraft Bee Drone</title><link>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</guid><description/><content/></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
+Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.</description><content>&lt;p>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.&lt;/p>
+&lt;p>Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.&lt;/p>
+&lt;p>We placed 3rd!&lt;/p></content></item><item><title>UC</title><link>https://remilarius.github.io/project/studentgov/uc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/uc/</guid><description>alternative toml</description><content>&lt;p>alternative toml&lt;/p>
+&lt;!-- baseURL = 'https://remilarius.github.io/project/'
+languageCode = 'en-us'
+theme = "terminal"
+paginate = 5
+[params]
+# dir name of your main content (default is `content/posts`).
+# the list of set content will show up on your index page (baseurl).
+contentTypeName = "posts"
+# ["orange", "blue", "red", "green", "pink"]
+themeColor = "orange"
+canonifyurls = true
+# if you set this to 0, only submenu trigger will be visible
+showMenuItems = 5
+# show selector to switch language
+showLanguageSelector = false
+# set theme to full screen width
+fullWidthTheme = false
+# center theme with default width
+centerTheme = false
+# if your resource directory contains an image called `cover.(jpg|png|webp)`,
+# then the file will be used as a cover automatically.
+# With this option you don't have to put the `cover` param in a front-matter.
+autoCover = true
+# set post to show the last updated
+# If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+showLastUpdated = false
+# set a custom favicon (default is a `themeColor` square)
+# favicon = "favicon.ico"
+# Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+# updatedDatePrefix = "Updated"
+# set all headings to their default size (depending on browser settings)
+# oneHeadingSize = true # default
+# whether to show a page's estimated reading time
+# readingTime = false # default
+# whether to show a table of contents
+# can be overridden in a page's front-matter
+# Toc = false # default
+# set title for the table of contents
+# can be overridden in a page's front-matter
+# TocTitle = "Table of Contents" # default
+utterancesRepo = "remilarius/project"
+[params.twitter]
+# set Twitter handles for Twitter cards
+# see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+# do not include @
+creator = ""
+site = ""
+[languages]
+[languages.en]
+languageName = "English"
+title = "Terminal"
+subtitle = "A simple, retro theme for Hugo"
+owner = ""
+keywords = ""
+copyright = ""
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
+[languages.en.params.logo]
+logoText = "Joy Lin"
+logoHomeLink = "/project"
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "/about"
+[[languages.en.menu.main]]
+identifier = "Personal Projects"
+name = "Personal Projects"
+url = "/personalprojects"
+[[languages.en.menu.main]]
+identifier = "classprojects"
+name = "Class Projects"
+url = "/classprojects"
+[[languages.en.menu.main]]
+identifier = "studentgov"
+name = "StudentGov"
+url = "/studentgov"
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true --></content></item></channel></rss>

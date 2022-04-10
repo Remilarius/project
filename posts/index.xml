@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Terminal</title><link>https://remilarius.github.io/project/posts/</link><description>Recent content in Posts on Terminal</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://remilarius.github.io/project/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Landing</title><link>https://remilarius.github.io/project/posts/first_post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/first_post/</guid><description>testestsetset
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Joy Lin</title><link>https://remilarius.github.io/project/posts/</link><description>Recent content in Posts on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://remilarius.github.io/project/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Landing</title><link>https://remilarius.github.io/project/posts/post1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/post1/</guid><description>testestsetset
 hello I&amp;rsquo;m trying to add an image
-Hello Friend!</description><content>&lt;p>testestsetset&lt;/p>
+testest
+Hello Friend! Fig2. Averages per metric ton Fig2. Averages per metric ton</description><content>&lt;p>testestsetset&lt;/p>
 &lt;p>hello I&amp;rsquo;m trying to add an image&lt;/p>
-&lt;p>&lt;img src="https://remilarius.github.io/project/img/hammock.jpg" alt="ets">&lt;/p>
-&lt;p>&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="ets">&lt;/p>
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="border-radius: 8px;" />
-&lt;figure class="center" >
-&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" style="border-radius: 8px;" />
-&lt;figcaption class="right" style="color: red;" >Hello Friend!&lt;/figcaption>
-&lt;/figure></content></item></channel></rss>
+&lt;p>testest&lt;/p>
+&lt;p>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="center" style="float:left; width:40%; margin:1%" />
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:right; width:40%; margin:1%" />
+&lt;/p>
+&lt;img src="https://remilarius.github.io/project/img/prusa.jpg" alt="Hello Friend" class="left" style="float:center; width:50%; padding:20px" />
+&lt;figure class="left" >
+&lt;img src="https://remilarius.github.io/project/img/dragongrace.jpg" alt="Hello Friend" style="float:; border-radius: 5px;width:250px;height:250px" />
+&lt;figcaption class="center" style="color: white;" >Hello Friend!&lt;/figcaption>
+&lt;/figure>
+&lt;div style="float: center; ">
+&lt;figure class ="center">
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:left" padding= "10px 10px"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "45%" style= "float:right"/>
+&lt;figcaption style="width:45%;float:left;"> Fig2. Averages per metric ton&lt;/figcaption>
+&lt;figcaption style="width:45%;float:right"> Fig2. Averages per metric ton&lt;/figcaption>
+&lt;/figure>
+&lt;/div></content></item></channel></rss>
