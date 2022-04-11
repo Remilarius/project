@@ -27,6 +27,3 @@ figcaption{
 .post-tags a {
 	color: teal;
 }
-
-<link rel="apple-touch-icon" href="{{ "img/apple-touch-icon-192x192.png" | absURL }}">
-  <link rel="shortcut icon" href="/img/icons/sealogo.png">
