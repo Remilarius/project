@@ -1,19 +1,138 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ME on Terminal</title>
+    <title>ME on Joy Lin</title>
     <link>https://remilarius.github.io/project/tags/me/</link>
-    <description>Recent content in ME on Terminal</description>
+    <description>Recent content in ME on Joy Lin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://remilarius.github.io/project/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/tags/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Landing</title>
+      <link>https://remilarius.github.io/project/posts/post1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/project/posts/post1/</guid>
+      <description>testestsetset
+hello I&amp;rsquo;m trying to add an image
+image gallery and figure settings
+testest
+vofdk;l,fdvf
+Hello Friend!Fig2. Averages perFig2. Averages perJoy Lin, MEFig2. Averages perFig2. Averages per</description>
+      <content>&lt;p&gt;testestsetset&lt;/p&gt;
+&lt;p&gt;hello I&amp;rsquo;m trying to add an image&lt;/p&gt;
+&lt;p&gt;image gallery and figure settings&lt;/p&gt;
+&lt;p&gt;testest&lt;/p&gt;
+&lt;p&gt;vofdk;l,fdvf&lt;/p&gt;
+&lt;p&gt;
+  &lt;img src=&#34;https://remilarius.github.io/project/img/prusa.jpg&#34;  
+
+
+  alt=&#34;Hello Friend&#34;  
+
+  class=&#34;center&#34;  style=&#34;float:left; width:40%; margin:1%&#34; 
+   /&gt;
+
+
+
+  &lt;img src=&#34;https://remilarius.github.io/project/img/prusa.jpg&#34;  
+
+
+  alt=&#34;Hello Friend&#34;  
+
+  class=&#34;left&#34;  style=&#34;float:right; width:40%; margin:1%&#34; 
+   /&gt;
+
+&lt;/p&gt;
+&lt;img src=&#34;https://remilarius.github.io/project/img/prusa.jpg&#34; alt=&#34;hello&#34;  style = &#34;float:right;width:40%;&#34;/&gt;
+
+  &lt;img src=&#34;https://remilarius.github.io/project/img/prusa.jpg&#34;  
+
+
+  alt=&#34;Hello Friend&#34;  
+
+  class=&#34;left&#34;  style=&#34;float:right; width:40%; margin-bottom: 5%;margin-right: 5%&#34; 
+   /&gt;
+
+
+
+  &lt;figure class=&#34;center&#34; &gt;
+    &lt;img src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34;  alt=&#34;Hello Friend&#34;   style=&#34;float:center; border-radius: 5px;width:250px;height:250px&#34;  /&gt;
+    
+      &lt;figcaption class=&#34;center&#34;  style=&#34;color: white;&#34; &gt;Hello Friend!&lt;/figcaption&gt;
+    
+  &lt;/figure&gt;
+
+
+&lt;div&gt;
+&lt;figure class =&#34;center&#34; padding-right= &#34;100px&#34;; padding-left= &#34;100px&#34;;&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;45%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;45%&#34; style= &#34;float:right&#34;/&gt;
+  &lt;figcaption style=&#34;width:45%;float:left;color:white&#34;&gt; Fig2. Averages per&lt;/figcaption&gt;
+  &lt;figcaption style=&#34;width:45%;float:right;color:white&#34;&gt; Fig2. Averages per&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+&lt;div style=&#34;float: center;&#34;&gt;
+&lt;figure class =&#34;right&#34;&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;30%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/spacer.png&#34; width= &#34;5%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;30%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/spacer.png&#34; width= &#34;5%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;30%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;figcaption style=&#34;width:30%;float:left;color:white&#34;&gt; Joy Lin, ME&lt;/figcaption&gt;
+  &lt;figcaption style=&#34;width:5%;float:left;&#34;&gt;&lt;/figcaption&gt;
+  &lt;figcaption style=&#34;width:30%;float:left;color:white&#34;&gt; Fig2. Averages per&lt;/figcaption&gt;
+  &lt;figcaption style=&#34;width:5%;float:left;&#34;&gt;&lt;/figcaption&gt;
+  &lt;figcaption style=&#34;width:30%;float:left;color:white&#34;&gt; Fig2. Averages per&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;</content>
+    </item>
+    
     <item>
       <title>E-Bike</title>
-      <link>https://remilarius.github.io/project/personal-projects/ebike/</link>
+      <link>https://remilarius.github.io/project/personalprojects/ebike/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/project/personalprojects/ebike/</guid>
+      <description>I want to see my post coeveresfdovbjn
+dheafjnvldkcvefjsdlkpokjknl
+Fig2. Averages perFig2. Averages per</description>
+      <content>&lt;p&gt;I want to see my post coeveresfdovbjn&lt;/p&gt;
+&lt;p&gt;dheafjnvldkcvefjsdlkpokjknl&lt;/p&gt;
+&lt;div&gt;
+&lt;figure class =&#34;center&#34; padding-right= &#34;100px&#34;; padding-left= &#34;100px&#34;;&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;45%&#34; style= &#34;float:left&#34;/&gt;
+  &lt;img class=&#34;center&#34; src=&#34;https://remilarius.github.io/project/img/dragongrace.jpg&#34; width= &#34;45%&#34; style= &#34;float:right&#34;/&gt;
+  &lt;figcaption style=&#34;width:45%;float:left;color:white&#34;&gt; Fig2. Averages per&lt;/figcaption&gt;
+  &lt;figcaption style=&#34;width:45%;float:right;color:white&#34;&gt; Fig2. Averages per&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Mass Accelerator</title>
+      <link>https://remilarius.github.io/project/personalprojects/massaccelerator/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/project/personalprojects/massaccelerator/</guid>
+      <description>I&amp;rsquo;m not suppose to call it a railgun.estsetsetes</description>
+      <content>&lt;p&gt;I&amp;rsquo;m not suppose to call it a railgun.estsetsetes&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>The CAD Board: Recinditas</title>
+      <link>https://remilarius.github.io/project/classprojects/es51/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://remilarius.github.io/project/personal-projects/ebike/</guid>
-      <description></description>
-      <content></content>
+      <guid>https://remilarius.github.io/project/classprojects/es51/</guid>
+      <description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
+Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.</description>
+      <content>&lt;p&gt;The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.&lt;/p&gt;
+&lt;p&gt;Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.&lt;/p&gt;
+&lt;p&gt;We placed 3rd!&lt;/p&gt;
+</content>
     </item>
     
   </channel>

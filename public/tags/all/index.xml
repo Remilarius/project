@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ALL on Joy Lin</title>
+    <link>https://remilarius.github.io/project/tags/all/</link>
+    <description>Recent content in ALL on Joy Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LaserCutter Settings</title>
+      <link>https://remilarius.github.io/project/classprojects/lasercuttersettings/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/project/classprojects/lasercuttersettings/</guid>
+      <description>Priority:
+Wood 1/8&amp;quot;. 40s|100p|1000f Wood 1/4&amp;quot;. 12s|100p|500f
+Acryllic 1/4&amp;quot;. 12s|100p|5000f Acryllic 1/8&amp;quot;. 20s|100p|5000f
+Test: 1/8&amp;quot; acryllic at 25s?
+Notes:</description>
+      <content>&lt;p&gt;Priority:&lt;/p&gt;
+&lt;p&gt;Wood 1/8&amp;quot;. 40s|100p|1000f
+Wood 1/4&amp;quot;. 12s|100p|500f&lt;/p&gt;
+&lt;p&gt;Acryllic 1/4&amp;quot;. 12s|100p|5000f
+Acryllic 1/8&amp;quot;. 20s|100p|5000f&lt;/p&gt;
+&lt;p&gt;Test: 1/8&amp;quot; acryllic at 25s?&lt;/p&gt;
+&lt;p&gt;Notes:&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

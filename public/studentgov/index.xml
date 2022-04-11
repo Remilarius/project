@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studentgovs on Joy Lin</title>
+    <link>https://remilarius.github.io/project/studentgov/</link>
+    <description>Recent content in Studentgovs on Joy Lin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://remilarius.github.io/project/studentgov/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UC</title>
+      <link>https://remilarius.github.io/project/studentgov/uc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/project/studentgov/uc/</guid>
+      <description>alternative toml
+{{ else }}{{ end }}--</description>
+      <content>&lt;p&gt;alternative toml&lt;/p&gt;
+&lt;!-- {{ if isset $.Site.Params &#34;favicon&#34; }}
+  &lt;link rel=&#34;shortcut icon&#34; href=&#34;{{ $.Site.Params.favicon | absURL }}&#34;&gt;
+{{ else }}
+  &lt;link rel=&#34;shortcut icon&#34; href=&#34;{{ printf &#34;img/favicon/%s.png&#34; ($.Site.Params.ThemeColor | default &#34;orange&#34;) | absURL }}&#34;&gt;
+{{ end }}
+ --&gt;
+&lt;!-- baseURL = &#39;https://remilarius.github.io/project/&#39;
+languageCode = &#39;en-us&#39;
+theme = &#34;terminal&#34;
+paginate = 5
+
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = &#34;posts&#34;
+
+  # [&#34;orange&#34;, &#34;blue&#34;, &#34;red&#34;, &#34;green&#34;, &#34;pink&#34;]
+  themeColor = &#34;orange&#34;
+
+
+  canonifyurls = true
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = false
+
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # then the file will be used as a cover automatically.
+  # With this option you don&#39;t have to put the `cover` param in a front-matter.
+  autoCover = true
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = &#34;favicon.ico&#34;
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = &#34;Updated&#34;
+
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = true # default
+
+  # whether to show a page&#39;s estimated reading time
+  # readingTime = false # default
+
+  # whether to show a table of contents
+  # can be overridden in a page&#39;s front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page&#39;s front-matter
+  # TocTitle = &#34;Table of Contents&#34; # default
+
+  utterancesRepo = &#34;remilarius/project&#34;
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = &#34;&#34;
+  site = &#34;&#34;
+
+[languages]
+  [languages.en]
+    languageName = &#34;English&#34;
+    title = &#34;Terminal&#34;
+    subtitle = &#34;A simple, retro theme for Hugo&#34;
+    owner = &#34;&#34;
+    keywords = &#34;&#34;
+    copyright = &#34;&#34;
+    menuMore = &#34;Show more&#34;
+    readMore = &#34;Read more&#34;
+    readOtherPosts = &#34;Read other posts&#34;
+    newerPosts = &#34;Newer posts&#34;
+    olderPosts = &#34;Older posts&#34;
+    missingContentMessage = &#34;Page not found...&#34;
+    missingBackButtonLabel = &#34;Back to home page&#34;
+
+    [languages.en.params.logo]
+      logoText = &#34;Joy Lin&#34;
+      logoHomeLink = &#34;/project&#34;
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = &#34;about&#34;
+        name = &#34;About&#34;
+        url = &#34;/about&#34;
+      [[languages.en.menu.main]]
+        identifier = &#34;Personal Projects&#34;
+        name = &#34;Personal Projects&#34;
+        url = &#34;/personalprojects&#34;
+      [[languages.en.menu.main]]
+        identifier = &#34;classprojects&#34;
+        name = &#34;Class Projects&#34;
+        url = &#34;/classprojects&#34;
+      [[languages.en.menu.main]]
+        identifier = &#34;studentgov&#34;
+        name = &#34;StudentGov&#34;
+        url = &#34;/studentgov&#34;
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true --&gt;</content>
+    </item>
+    
+  </channel>
+</rss>

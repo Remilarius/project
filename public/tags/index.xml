@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Terminal</title>
+    <title>Tags on Joy Lin</title>
     <link>https://remilarius.github.io/project/tags/</link>
-    <description>Recent content in Tags on Terminal</description>
+    <description>Recent content in Tags on Joy Lin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://remilarius.github.io/project/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EE</title>
       <link>https://remilarius.github.io/project/tags/ee/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/project/tags/ee/</guid>
       <description></description>
@@ -19,9 +20,19 @@
     <item>
       <title>ME</title>
       <link>https://remilarius.github.io/project/tags/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://remilarius.github.io/project/tags/me/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>ALL</title>
+      <link>https://remilarius.github.io/project/tags/all/</link>
+      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://remilarius.github.io/project/tags/all/</guid>
       <description></description>
       <content></content>
     </item>

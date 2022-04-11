@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>UC :: Joy Lin</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="alternative toml
+{{ else }}{{ end }}--" />
+<meta name="keywords" content=", " />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://remilarius.github.io/project/studentgov/uc/" />
+
+
+
+
+<link rel="stylesheet" href="https://remilarius.github.io/project/assets/style.css">
+
+  <link rel="stylesheet" href="assets/%25!s%28%3cnil%3e%29.css">
+
+
+
+<link rel="stylesheet" href="https://remilarius.github.io/project/style.css">
+
+
+<link rel="apple-touch-icon" href="https://remilarius.github.io/project/img/apple-touch-icon-192x192.png">
+  <link rel="shortcut icon" href="https://remilarius.github.io/project/img/icons/sealogo.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="UC">
+<meta property="og:description" content="alternative toml
+{{ else }}{{ end }}--" />
+<meta property="og:url" content="https://remilarius.github.io/project/studentgov/uc/" />
+<meta property="og:site_name" content="Joy Lin" />
+
+  <meta property="og:image" content="https://remilarius.github.io/project/">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="">
+
+
+<div class="container center headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="https://remilarius.github.io/project/">
+  <div class="logo">
+    Joy Lin
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="https://remilarius.github.io/project/about">About</a></li>
+        
+      
+        
+          <li><a href="https://remilarius.github.io/project/classprojects">Class Projects</a></li>
+        
+      
+        
+          <li><a href="https://remilarius.github.io/project/personalprojects">Personal Projects</a></li>
+        
+      
+        
+          <li><a href="https://remilarius.github.io/project/studentgov">StudentGov</a></li>
+        
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="https://remilarius.github.io/project/about">About</a></li>
+      
+    
+      
+        <li><a href="https://remilarius.github.io/project/classprojects">Class Projects</a></li>
+      
+    
+      
+        <li><a href="https://remilarius.github.io/project/personalprojects">Personal Projects</a></li>
+      
+    
+      
+        <li><a href="https://remilarius.github.io/project/studentgov">StudentGov</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://remilarius.github.io/project/studentgov/uc/">UC</a></h1>
+  <div class="post-meta">
+    
+    
+      <span class="post-author">:: Joy Lin, Ivor Zimmerman</span>
+    
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://remilarius.github.io/project/tags/"></a>&nbsp;
+    
+  </span>
+  
+  
+
+
+  
+
+  <div class="post-content"><div>
+        <p>alternative toml</p>
+<!-- {{ if isset $.Site.Params "favicon" }}
+  <link rel="shortcut icon" href="{{ $.Site.Params.favicon | absURL }}">
+{{ else }}
+  <link rel="shortcut icon" href="{{ printf "img/favicon/%s.png" ($.Site.Params.ThemeColor | default "orange") | absURL }}">
+{{ end }}
+ -->
+<!-- baseURL = 'https://remilarius.github.io/project/'
+languageCode = 'en-us'
+theme = "terminal"
+paginate = 5
+
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
+
+
+  canonifyurls = true
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 5
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = false
+
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # then the file will be used as a cover automatically.
+  # With this option you don't have to put the `cover` param in a front-matter.
+  autoCover = true
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # oneHeadingSize = true # default
+
+  # whether to show a page's estimated reading time
+  # readingTime = false # default
+
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
+
+  utterancesRepo = "remilarius/project"
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = ""
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Terminal"
+    subtitle = "A simple, retro theme for Hugo"
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Joy Lin"
+      logoHomeLink = "/project"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "Personal Projects"
+        name = "Personal Projects"
+        url = "/personalprojects"
+      [[languages.en.menu.main]]
+        identifier = "classprojects"
+        name = "Class Projects"
+        url = "/classprojects"
+      [[languages.en.menu.main]]
+        identifier = "studentgov"
+        name = "StudentGov"
+        url = "/studentgov"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true -->
+      </div></div>
+
+  
+
+  
+  
+
+  
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2022 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://remilarius.github.io/project/assets/main.js"></script>
+<script src="https://remilarius.github.io/project/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
