@@ -77,6 +77,12 @@ languages:
       - identifier: studentgov
         name: StudentGov
         url: /studentgov
+      - identifier: HMC
+        name: Maker's Collective
+        url: /hmc
+      - identifier: examples    
+        name: Examples  
+        url: /examples
 
 params:
     customcss: 

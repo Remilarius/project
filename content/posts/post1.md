@@ -16,6 +16,8 @@ image gallery and figure settings
 
 testest
 
+<p><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTsSj-oftLksGEKTkzCoBSIpzooO61ZMGAUzoGBv7u20OzMQK8ctX3gCpWTMm4UowrrWumFrdQsY0Cd/embed?start=false&loop=false&delayms=5000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+
 vofdk;l,fdvf
 
 {{< image src="/img/prusa.jpg" alt="Hello Friend" 
@@ -28,29 +30,25 @@ position="left" style="float:right; width:40%; margin:1%" >}}
 
 
 {{< image src="/img/prusa.jpg" alt="Hello Friend" position="left" style="float:right; width:40%; margin-bottom: 5%;margin-right: 5%" >}}
+fefesffb foewhofje;fklm iofjoewifj 
 
-{{< figure src="/img/dragongrace.jpg" alt="Hello Friend" position="center" style="float:center; border-radius: 5px;width:250px;height:250px" caption="Hello Friend!" captionPosition="center" captionStyle="color: white;" >}}
 
-<div>
-<figure class ="center" padding-right= "100px"; padding-left= "100px";>
-  <img class="center" src="/img/dragongrace.jpg" width= "45%" style= "float:left"/>
-  <img class="center" src="/img/dragongrace.jpg" width= "45%" style= "float:right"/>
-  <figcaption style="width:45%;float:left;color:white"> Fig2. Averages per</figcaption>
-  <figcaption style="width:45%;float:right;color:white"> Fig2. Averages per</figcaption>
+
+foeofpke
+<div class ="backing">
+<figure class = "twoprof">
+  <img class="twoimg" src="/img/dragongrace.jpg" width= "46%" style= "float:left"/>
+  <img class="twoimg" src="/img/dragongrace.jpg" width= "46%" style= "float:right"/>
+  <figcaption style="width:46%;float:left;"> Joy Lin, ME </figcaption>
+  <figcaption style="width:46%;float:right;"> Umar Padela, ME </figcaption>
 </figure>
-</div>
 
-<div style="float: center;">
 <figure class ="right">
-  <img class="center" src="/img/dragongrace.jpg" width= "30%" style= "float:left"/>
-  <img class="center" src="/img/spacer.png" width= "5%" style= "float:left"/>
-  <img class="center" src="/img/dragongrace.jpg" width= "30%" style= "float:left"/>
-  <img class="center" src="/img/spacer.png" width= "5%" style= "float:left"/>
-  <img class="center" src="/img/dragongrace.jpg" width= "30%" style= "float:left"/>
-  <figcaption style="width:30%;float:left;color:white"> Joy Lin, ME</figcaption>
-  <figcaption style="width:5%;float:left;"></figcaption>
-  <figcaption style="width:30%;float:left;color:white"> Fig2. Averages per</figcaption>
-  <figcaption style="width:5%;float:left;"></figcaption>
-  <figcaption style="width:30%;float:left;color:white"> Fig2. Averages per</figcaption>
+  <img class="threeprof" src="/img/dragongrace.jpg" width= "30%" style= "float:left"/>
+  <img class="threeprof" src="/img/dragongrace.jpg" width= "30%" style= "float:left"/>
+  <img class="right" src="/img/dragongrace.jpg" width= "30%" style= "float:right"/>
+  <figcaption class="support" style="width:30%;float:left;"> Joy Lin, ME</figcaption>
+  <figcaption class="support" style="width:30%;float:left;"> Fig2. Averages per</figcaption>
+  <figcaption style="width:30%;float:right;background-color: tomato"> Fig2. Averages per</figcaption>
 </figure>
 </div>
