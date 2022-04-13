@@ -42,9 +42,9 @@ Our [Bill of Materials](https://docs.google.com/spreadsheets/d/1Er6CHjBz3nukKiNW
  $200   | [Base Bike](https://www.walmart.com/ip/seort/651876804)
  $446   | Battery
  $42.50 | [Torque Arm Grintech v4](https://www.amazon.com/Grin-Technologies-Universal-Electric-ebikes/dp/B00K60C67Y/ref=sr_1_6?qid=1649696704&refinements=p_4%3AGrin+Technologies&s=sporting-goods&sr=1-6)
- $1249  | Total
+ $1249  | **Total**
 
-<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwyxlO9xj8bWD0r1LC0ZSDYVFhdRTCuvQ1t9UUUQUJoYAPM_Gzc5Tt-xLCo0R6OL9gG23v-5dXIlxR/pubhtml?widget=true&amp;headers=false" frameborder="2" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwyxlO9xj8bWD0r1LC0ZSDYVFhdRTCuvQ1t9UUUQUJoYAPM_Gzc5Tt-xLCo0R6OL9gG23v-5dXIlxR/pubhtml?widget=true&amp;headers=false" frameborder="2" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 
 
