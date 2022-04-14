@@ -4,9 +4,8 @@ body{
 }
 
 figure{
-	padding-right: 15px;
-	padding-left: 15px;
-
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
 figure figcaption{
@@ -31,6 +30,11 @@ img{
 
 .post-tags a {
 	color: teal;
+}
+
+.team {
+	background-color: gold;
+	width:48%
 }
 
 .support {
