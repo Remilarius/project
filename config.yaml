@@ -86,7 +86,7 @@ languages:
 
 params:
     customcss: 
-      - ccs/style.css 
+      - ccs/style.css
 
 markup:
   goldmark:

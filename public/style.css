@@ -4,17 +4,21 @@ body{
 }
 
 figure{
-	padding-right: 25px;
-	padding-left: 25px;
+	padding-right: 0px;
+	padding-left: 0px;
 }
 
-figcaption{
+figure figcaption{
 	text-align: center;
 	color: white;
-	font: ;
+	border-radius: 5px;
 }
 
-:root{--accent: cadetblue;}
+img{
+	border-radius: 5px;
+}
+
+:root{--accent: blue;}
 
 .post-meta{
 	color:  cadetblue;
@@ -26,4 +30,41 @@ figcaption{
 
 .post-tags a {
 	color: teal;
+}
+
+.support {
+	background-color: blue;
+	color: white;
+	margin-right: 5%;
+}
+
+.teams {
+	background-color: gold;
+	color: white;
+}
+
+
+.twoprof {
+	margin-left: 12%;
+	margin-right: 12%;
+}
+
+.threeprof{
+	margin-right: 5%;
+}
+
+.bords{
+	border-radius:  10px;
+	border-width: 10px;
+	border-style: solid;
+	border-color: cadetblue;
+}
+
+.backing{
+	background-color: #cbd0d6;
+	padding-right: 5px;
+	padding-left: 5px;
+	padding-top:5px;
+	padding-bottom: 5px;
+	border-radius: 10px;
 }

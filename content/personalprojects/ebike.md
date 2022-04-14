@@ -62,6 +62,10 @@ Funding |
 </figure>
 
 
+
+
+;ksjfvbroiefkvmpokems'd
+
 <div style="text-align: center;">  
 
 ## Our [Bill of Materials](https://docs.google.com/spreadsheets/d/1Er6CHjBz3nukKiNW2evzZ4lxp7rc7oZA-Knz4mU-viE/edit#gid=0) Spreadsheet
@@ -77,8 +81,8 @@ Funding |
 <figure class = "twoprof">
   <img class="center" src="/img/dragongrace.jpg" width= "48%" style= "float:left"/>
   <img class="center" src="/img/dragongrace.jpg" width= "48%" style= "float:right"/>
-  <figcaption class="team" style="float:left"> Joy Lin, ME </figcaption>
-  <figcaption class="team" style="float:right"> Umar Padela, ME </figcaption>
+  <figcaption class="teams" style="width:48%;float:left;"> Joy Lin, ME </figcaption>
+  <figcaption class="teams" style="width:48%;float:right"> Umar Padela, ME </figcaption>
 </figure>
 
 <figure>
