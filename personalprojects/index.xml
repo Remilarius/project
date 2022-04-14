@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalprojects on Joy Lin</title><link>https://remilarius.github.io/project/personalprojects/</link><description>Recent content in Personalprojects on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity. I thought this might help with my mom being on her phone all day
-Coming back to campus, I had looked forward to getting nectar funding to build the bike.</description><content>&lt;p>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity. I thought this might help with my mom being on her phone all day&lt;/p>
-&lt;p>Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalprojects on Joy Lin</title><link>https://remilarius.github.io/project/personalprojects/</link><description>Recent content in Personalprojects on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
+Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.</description><content>&lt;p>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.&lt;/p>
+&lt;p>Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.&lt;/p>
 &lt;p>We received $1000 in nectar funding to cover the cost of the electronic components that would go on the bike and an extra $200 to cover the cost of the base bike since the bike that Umar had had dropouts that were too small.&lt;/p>
+&lt;p>We had to make sure there was enough space in the triangles of the bike to mount the battery and controller.&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -46,7 +47,6 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;p>Our &lt;a href="https://docs.google.com/spreadsheets/d/1Er6CHjBz3nukKiNW2evzZ4lxp7rc7oZA-Knz4mU-viE/edit#gid=0">Bill of Materials&lt;/a>&lt;/p>
 &lt;table>
 &lt;thead>
 &lt;tr>
@@ -56,20 +56,24 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
-&lt;td>$439&lt;/td>
+&lt;td>$440&lt;/td>
 &lt;td>&lt;a href="https://ebikeling.com/collections/ebikeling-ebike-conversion-kit/products/1500w-ebike-conversion-kit?variant=39575305453634">26&amp;quot; Conversion Kit from Ebikeling&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$430&lt;/td>
+&lt;td>52V 16AH Shark LG Battery from Ebikeling&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>$200&lt;/td>
 &lt;td>&lt;a href="https://www.walmart.com/ip/seort/651876804">Base Bike&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
-&lt;td>$446&lt;/td>
-&lt;td>Battery&lt;/td>
-&lt;/tr>
-&lt;tr>
 &lt;td>$42.50&lt;/td>
 &lt;td>&lt;a href="https://www.amazon.com/Grin-Technologies-Universal-Electric-ebikes/dp/B00K60C67Y/ref=sr_1_6?qid=1649696704&amp;amp;refinements=p_4%3AGrin+Technologies&amp;amp;s=sporting-goods&amp;amp;sr=1-6">Torque Arm Grintech v4&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$16.14&lt;/td>
+&lt;td>&lt;a href="https://www.google.com/url?q=https://www.amazon.com/Greenergia-Controller-Electric-Bicycle-Conversion/dp/B07DJD152P/ref%3Dsr_1_2?crid%3DHF468JPGY55H%26keywords%3Debike%2Bcontroller%2Bbox%26qid%3D1649702356%26sprefix%3Debike%2Bcontroller%2Bbox%252Caps%252C67%26sr%3D8-2&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1649966711092154&amp;amp;usg=AOvVaw3FsFpn-nwzO9y2a-_Jo5et">Controller Box&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>$1249&lt;/td>
@@ -77,12 +81,50 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>BOM&lt;/th>
+&lt;th>Joy&amp;rsquo;s Bike&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>$440&lt;/td>
+&lt;td>&lt;a href="https://ebikeling.com/collections/ebikeling-ebike-conversion-kit/products/1500w-ebike-conversion-kit?variant=39575305453634">24&amp;quot; Conversion Kit from Ebikeling&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$430&lt;/td>
+&lt;td>52V 16AH Shark LG Battery from Ebikeling&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$200&lt;/td>
+&lt;td>&lt;a href="https://www.walmart.com/ip/Mongoose-Excursion-mountain-bike-24-inch-wheel-21-speeds-boys-black/702587328?athcpid=702587328&amp;amp;athpgid=AthenaItempage&amp;amp;athcgid=null&amp;amp;athznid=siext&amp;amp;athieid=v0&amp;amp;athstid=CS004&amp;amp;athguid=00-f2251b0ac2d67517c3a14a233e3d6cd5-1997ccdeb4de83b8-01&amp;amp;athancid=null&amp;amp;athena=true&amp;amp;athbdg=L1100">Base Bike&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>$1249&lt;/td>
+&lt;td>&lt;strong>Total&lt;/strong>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;figure>
+&lt;img class="center" src="https://remilarius.github.io/project/img/umarbasebike.jpeg" width= "49%" style= "float:left"/>
+&lt;img class="center" src="https://remilarius.github.io/project/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
+&lt;figcaption style="width:49%;float:left;"> 26" Schwinn Sidewinder MTB &lt;/figcaption>
+&lt;figcaption style="width:49%;float:right;"> 24" Mongoose Excursion MTB &lt;/figcaption>
+&lt;/figure>
+&lt;div style="text-align: center;">
+&lt;h2 id="our-bill-of-materialshttpsdocsgooglecomspreadsheetsd1er6chjbz3nukkinw2evzz4lxp7rc7oza-knz4mu-vieeditgid0-spreadsheet">Our &lt;a href="https://docs.google.com/spreadsheets/d/1Er6CHjBz3nukKiNW2evzZ4lxp7rc7oZA-Knz4mU-viE/edit#gid=0">Bill of Materials&lt;/a> Spreadsheet&lt;/h2>
+&lt;/div>
 &lt;p>&lt;iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwyxlO9xj8bWD0r1LC0ZSDYVFhdRTCuvQ1t9UUUQUJoYAPM_Gzc5Tt-xLCo0R6OL9gG23v-5dXIlxR/pubhtml?widget=true&amp;amp;headers=false" frameborder="2" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p>
+&lt;div style="text-align: center;">
+&lt;h2 id="people-gallery">People Gallery&lt;/h2>
+&lt;/div>
 &lt;figure class = "twoprof">
 &lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "48%" style= "float:left"/>
 &lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "48%" style= "float:right"/>
-&lt;figcaption style="width:48%;float:left;"> Joy Lin, ME &lt;/figcaption>
-&lt;figcaption style="width:48%;float:right;"> Umar Padela, ME &lt;/figcaption>
+&lt;figcaption class="team" style="float:left"> Joy Lin, ME &lt;/figcaption>
+&lt;figcaption class="team" style="float:right"> Umar Padela, ME &lt;/figcaption>
 &lt;/figure>
 &lt;figure>
 &lt;img class="center" src="https://remilarius.github.io/project/img/dragongrace.jpg" width= "30%" style= "float:left"/>
