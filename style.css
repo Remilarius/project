@@ -18,7 +18,7 @@ img{
 	border-radius: 5px;
 }
 
-:root{--accent: cadetblue;}
+:root{--accent: blue;}
 
 .post-meta{
 	color:  cadetblue;
@@ -32,15 +32,15 @@ img{
 	color: teal;
 }
 
-.team {
-	background-color: gold;
-	width:48%
-}
-
 .support {
 	background-color: tomato;
 	color: white;
 	margin-right: 5%;
+}
+
+.teams {
+	background-color: darkorange;
+	color: white;
 }
 
 .twoprof {
