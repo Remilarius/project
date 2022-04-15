@@ -41,7 +41,7 @@ Funding |
 --------|--------------
  $440   | [26" Conversion Kit from Ebikeling](https://ebikeling.com/collections/ebikeling-ebike-conversion-kit/products/1500w-ebike-conversion-kit?variant=39575305453634)
  $430   | 52V 16AH Shark LG Battery from Ebikeling
- $200   | [Base Bike](https://www.walmart.com/ip/seort/651876804)
+ $200   | [Base Bike: 26" Schwinn MTB](https://www.walmart.com/ip/seort/651876804)
  $42.50 | [Torque Arm Grintech v4](https://www.amazon.com/Grin-Technologies-Universal-Electric-ebikes/dp/B00K60C67Y/ref=sr_1_6?qid=1649696704&refinements=p_4%3AGrin+Technologies&s=sporting-goods&sr=1-6)
  $16.14 | [Controller Box](https://www.google.com/url?q=https://www.amazon.com/Greenergia-Controller-Electric-Bicycle-Conversion/dp/B07DJD152P/ref%3Dsr_1_2?crid%3DHF468JPGY55H%26keywords%3Debike%2Bcontroller%2Bbox%26qid%3D1649702356%26sprefix%3Debike%2Bcontroller%2Bbox%252Caps%252C67%26sr%3D8-2&sa=D&source=editors&ust=1649966711092154&usg=AOvVaw3FsFpn-nwzO9y2a-_Jo5et)
  $1249  | **Total**
@@ -50,7 +50,7 @@ Funding |
 --------|--------------
  $440   | [24" Conversion Kit from Ebikeling](https://ebikeling.com/collections/ebikeling-ebike-conversion-kit/products/1500w-ebike-conversion-kit?variant=39575305453634)
  $430   | 52V 16AH Shark LG Battery from Ebikeling
- $200   | [Base Bike](https://www.walmart.com/ip/Mongoose-Excursion-mountain-bike-24-inch-wheel-21-speeds-boys-black/702587328?athcpid=702587328&athpgid=AthenaItempage&athcgid=null&athznid=siext&athieid=v0&athstid=CS004&athguid=00-f2251b0ac2d67517c3a14a233e3d6cd5-1997ccdeb4de83b8-01&athancid=null&athena=true&athbdg=L1100)
+ $150   | [Base Bike: 24" Mongoose MTB](https://www.walmart.com/ip/Mongoose-Excursion-mountain-bike-24-inch-wheel-21-speeds-boys-black/702587328?athcpid=702587328&athpgid=AthenaItempage&athcgid=null&athznid=siext&athieid=v0&athstid=CS004&athguid=00-f2251b0ac2d67517c3a14a233e3d6cd5-1997ccdeb4de83b8-01&athancid=null&athena=true&athbdg=L1100)
  $1249  | **Total**
 
 
@@ -60,11 +60,6 @@ Funding |
   <figcaption style="width:49%;float:left;"> 26" Schwinn Sidewinder MTB </figcaption>
   <figcaption style="width:49%;float:right;"> 24" Mongoose Excursion MTB </figcaption>
 </figure>
-
-
-
-
-;ksjfvbroiefkvmpokems'd
 
 <div style="text-align: center;">  
 
