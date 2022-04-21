@@ -27,11 +27,19 @@ Sorry for being a bit weird earlier, you kept asking whether or not I was in cla
 
 04/14 - I hope you're going to be okay with those injuries. Headaches aren't fun. I got on the roof of Clav today. I had brought my lockpicks to have a go at it but the door was open. I walked around for a bit and explored the machinery. Wave hello to the construction workers on the scaffolding around Randolph.
 
+
+04/20 - I would not trade the present for the past, I still don't regret the time I spent with you, but I wonder if I had realized the dire straits I was in, and taken a break 
+
+I would hope that 
+
 ## Musings
 
 I don't think it's the fact that I can't get a good grade on exams, it's the fact that it feels like I can't bring myself to do thing I should be capable of. 
 
+
+My mind drifts towards infinty, 
+
 ## Things to watch with Grace
 
-- Suzume no hajimari
+- Suzume no Tojimari
 - How to Train your Dragon

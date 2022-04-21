@@ -90,3 +90,13 @@ Funding |
   <figcaption class="support" style="width:30%;float:left;"> Leo Gomez, EE Labs</figcaption>
   <figcaption style="width:30%;float:right;background-color: tomato;"> Rachel DeLucas </figcaption>
 </figure>
+
+>
+
+<script src="https://utteranc.es/client.js"
+        repo="remilarius/project"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async
+/script>
