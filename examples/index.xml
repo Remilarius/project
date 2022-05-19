@@ -129,14 +129,14 @@
 &lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
 &lt;p>Press &lt;kbd>&lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>Delete&lt;/kbd>&lt;/kbd> to end the session.&lt;/p>
 &lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;section class="footnotes" role="doc-endnotes">
+&lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
+&lt;li id="fn:1">
 &lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></content></item><item><title>Rich Content</title><link>https://remilarius.github.io/project/examples/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/examples/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p></description><content>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
+&lt;/div></content></item><item><title>Rich Content</title><link>https://remilarius.github.io/project/examples/rich-content/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/examples/rich-content/</guid><description>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p></description><content>&lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
 &lt;hr>
 &lt;h2 id="youtube-privacy-enhanced-shortcode">YouTube Privacy Enhanced Shortcode&lt;/h2>
 &lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">

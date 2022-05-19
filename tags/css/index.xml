@@ -129,11 +129,11 @@
 &lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
 &lt;p>Press &lt;kbd>&lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>Delete&lt;/kbd>&lt;/kbd> to end the session.&lt;/p>
 &lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p>
-&lt;section class="footnotes" role="doc-endnotes">
+&lt;div class="footnotes" role="doc-endnotes">
 &lt;hr>
 &lt;ol>
-&lt;li id="fn:1" role="doc-endnote">
+&lt;li id="fn:1">
 &lt;p>The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href="https://www.youtube.com/watch?v=PAAkCSZUG1c">talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/section></content></item></channel></rss>
+&lt;/div></content></item></channel></rss>
