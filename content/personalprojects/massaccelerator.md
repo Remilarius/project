@@ -13,4 +13,10 @@ showFullContent: false
 readingTime: false
 hideComments: false
 ---
-I'm not suppose to call it a railgun.estsetsetes
+I'm not suppose to call it a railgun.
+
+<!---->
+
+Prototype 1: 
+
+Tube mounted on a piece of wood with one copper coil in the middle.
