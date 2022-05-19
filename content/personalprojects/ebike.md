@@ -40,7 +40,7 @@ After the first bike was up in running, pending some brake adjustments and e-bra
 
 Since the triangles of 24" bikes are too small for a 52V downtube battery, we decided to go for a rear rack battery with 3.2AH more than a downtube.
 
-I had bought a Mongoose 24" Excursion bike thinking I'd motorize it but the quality of the bike wasn't the best and 
+I had bought a Mongoose 24" Excursion bike thinking I'd motorize it but the quality of the bike wasn't the best and I had to find another one. I ended getting a Schwinn Sidewinder like Umar's, 24".
 
 
 ## Building
@@ -121,7 +121,7 @@ During the rear wheel installation, we had many difficulties with the rear brake
 
 The LED lights and gloves were purchased by myself, and Umar and I shared the cost of the his helmet. We also shared half the Airtags.
 
-Peripheral options
+## Peripheral options
 
 ### Helmets
 - Full-face helmets
