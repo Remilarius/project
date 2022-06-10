@@ -134,15 +134,12 @@ The LED lights and gloves were purchased by myself, and Umar and I shared the co
 [GLX Helmet, Amazon](https://www.amazon.com/gp/product/B07886QXKG/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&th=1)
 
 
-
 <figure>
   <img class="center" src="/img/umarbasebike.jpeg" width= "49%" style= "float:left"/>
   <img class="right" src="/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
   <figcaption style="width:49%;float:left;"> 26" Schwinn Sidewinder MTB </figcaption>
   <figcaption style="width:49%;float:right;"> 24" Schwinn Sidewinder MTB </figcaption>
 </figure>
-
-
 
 <div style="text-align: center; color:cadetblue;">  
 
@@ -176,6 +173,8 @@ Sponsored by Harvard SEAS
   <figcaption class="teams" style="width:48%;float:left;"> Joy Lin, ME </figcaption>
   <figcaption class="teams" style="width:48%;float:right"> Umar Padela, ME </figcaption>
 </figure>
+
+<!---
 <script src="https://utteranc.es/client.js"
         repo="remilarius/project"
         issue-term="pathname"
