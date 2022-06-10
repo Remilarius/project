@@ -29,6 +29,8 @@ Sorry for being a bit weird earlier, you kept asking whether or not I was in cla
 
 04/20 - I would not trade the present for the past, I still don't regret the time I spent with you, but I wonder if I had realized the dire straits I was in and taken a break, if you would still be waiting here for me.
 
+05/19 - Getting interships in Texas and living out there for a year doesn't sound to bad honestly. I don't know if there's anything down there for you though. 
+
 ## Musings
 
 I don't think it's the fact that I can't get a good grade on exams, it's the fact that it feels like I can't bring myself to do thing I should be capable of. 
@@ -43,8 +45,16 @@ It's just me against the world in every way and I'm alone. I'm alone and I'm so 
 - Suzume no Tojimari
 - How to Train your Dragon
 - The Thieves
+- Love, Death, and Robots
 
 ## Things to do for Grace
 
 - Buy her a mechanical keyboard
-- Carve a zhuanghe for her
+- Carve a zhuanghe for her (Done)
+
+## Places to go with Grace (& Co.!)
+
+- Encore Casino & Hotel
+- The Arboretum
+- ProvinceTown
+- Fishkill/Poughkeepsie
