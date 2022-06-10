@@ -17,6 +17,9 @@ readingTime: false
 hideComments: false
 ---
 
+# Under Construction
+
+
 ## Pre-face
 This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity. 
 
@@ -134,10 +137,12 @@ The LED lights and gloves were purchased by myself, and Umar and I shared the co
 
 <figure>
   <img class="center" src="/img/umarbasebike.jpeg" width= "49%" style= "float:left"/>
-  <img class="center" src="/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
+  <img class="right" src="/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
   <figcaption style="width:49%;float:left;"> 26" Schwinn Sidewinder MTB </figcaption>
-  <figcaption style="width:49%;float:right;"> 24" Mongoose Excursion MTB </figcaption>
+  <figcaption style="width:49%;float:right;"> 24" Schwinn Sidewinder MTB </figcaption>
 </figure>
+
+
 
 <div style="text-align: center; color:cadetblue;">  
 
