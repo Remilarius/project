@@ -73,3 +73,8 @@ img{
    width: 100%;
    padding-top: 50%; /* 1:1 Aspect Ratio */
 }
+
+.gdocs {
+	margin-left: 10%;
+	margin-right: 10%;
+}
