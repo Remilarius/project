@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
-Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
-&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
-&lt;h3 id="team">Team&lt;/h3>
-&lt;ul>
-&lt;li>Saba Zerefa&lt;/li>
-&lt;li>Stephon Fagan-Avery&lt;/li>
-&lt;/ul>
-&lt;h3 id="mentor">Mentor&lt;/h3>
-&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>Harvard Maker's Collective</title><link>https://remilarius.github.io/project/hmc/hmc/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/hmc/hmc/</guid><description>Project List
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Harvard Maker's Collective</title><link>https://remilarius.github.io/project/hmc/hmc/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/hmc/hmc/</guid><description>Project List
 Split flap display</description><content>&lt;p>Project List&lt;/p>
 &lt;!----->
 &lt;ol>
@@ -365,6 +356,7 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;figcaption class="teams" style="width:48%;float:left;"> Joy Lin, ME &lt;/figcaption>
 &lt;figcaption class="teams" style="width:48%;float:right"> Umar Padela, ME &lt;/figcaption>
 &lt;/figure>
+&lt;!---
 &lt;script src="https://utteranc.es/client.js"
 repo="remilarius/project"
 issue-term="pathname"
@@ -394,7 +386,16 @@ Industry Contacts: - Boston Dynamics - Unitree Faculty Contacted: - Na Li (no re
 Faculty Contacted:
 - Na Li (no response)
 - Rob Wood
-- Robert Howe (05/10)&lt;/p></content></item><item><title>Markdown Syntax Guide</title><link>https://remilarius.github.io/project/examples/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/examples/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description><content>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+- Robert Howe (05/10)&lt;/p></content></item><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
+Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
+&lt;h3 id="team">Team&lt;/h3>
+&lt;ul>
+&lt;li>Saba Zerefa&lt;/li>
+&lt;li>Stephon Fagan-Avery&lt;/li>
+&lt;/ul>
+&lt;h3 id="mentor">Mentor&lt;/h3>
+&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>Markdown Syntax Guide</title><link>https://remilarius.github.io/project/examples/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/examples/markdown-syntax/</guid><description>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p></description><content>&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
@@ -754,7 +755,9 @@ unsafe = true --></content></item><item><title>Minecraft Bee Drone</title><link>
 &lt;h2 id="project-proposal-link">Project Proposal (Link)&lt;/h2>
 &lt;/div>
 &lt;p>&lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vS2VtR-92DV8MV5W7PiySZyEAumQekZMxd2gFjxtEyxfaAwT-UWyuvNeHiN52TXmZelfxRNwdc_Hd9l/pub?embedded=true" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p>
+&lt;div style="text-align: center; color:cadetblue;">
 &lt;h2 id="final-paper-link">Final Paper (Link)&lt;/h2>
+&lt;/div>
 &lt;p>&lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vSdG7pGJCZvpeBhnReL0hcKMxPPlWlh2xvDdq3upJkS4qMTUfhn_HbqPbqqHS45WmL7YVNmSITqQYCq/pub?embedded=true" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p></content></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
 Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.</description><content>&lt;p>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.&lt;/p>
 &lt;p>Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.&lt;/p>

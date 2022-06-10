@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalprojects on Joy Lin</title><link>https://remilarius.github.io/project/personalprojects/</link><description>Recent content in Personalprojects on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
-Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
-&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
-&lt;h3 id="team">Team&lt;/h3>
-&lt;ul>
-&lt;li>Saba Zerefa&lt;/li>
-&lt;li>Stephon Fagan-Avery&lt;/li>
-&lt;/ul>
-&lt;h3 id="mentor">Mentor&lt;/h3>
-&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>Under Construction Pre-face This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalprojects on Joy Lin</title><link>https://remilarius.github.io/project/personalprojects/</link><description>Recent content in Personalprojects on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>Under Construction Pre-face This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
 Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.</description><content>&lt;h1 id="under-construction">Under Construction&lt;/h1>
 &lt;h2 id="pre-face">Pre-face&lt;/h2>
 &lt;p>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.&lt;/p>
@@ -250,6 +241,7 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;figcaption class="teams" style="width:48%;float:left;"> Joy Lin, ME &lt;/figcaption>
 &lt;figcaption class="teams" style="width:48%;float:right"> Umar Padela, ME &lt;/figcaption>
 &lt;/figure>
+&lt;!---
 &lt;script src="https://utteranc.es/client.js"
 repo="remilarius/project"
 issue-term="pathname"
@@ -261,4 +253,13 @@ Prototype 1:
 Tube mounted on a piece of wood with one copper coil in the middle.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p>
 &lt;!---->
 &lt;p>Prototype 1:&lt;/p>
-&lt;p>Tube mounted on a piece of wood with one copper coil in the middle.&lt;/p></content></item></channel></rss>
+&lt;p>Tube mounted on a piece of wood with one copper coil in the middle.&lt;/p></content></item><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
+Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
+&lt;h3 id="team">Team&lt;/h3>
+&lt;ul>
+&lt;li>Saba Zerefa&lt;/li>
+&lt;li>Stephon Fagan-Avery&lt;/li>
+&lt;/ul>
+&lt;h3 id="mentor">Mentor&lt;/h3>
+&lt;p>Dr. Michelle Rosen&lt;/p></content></item></channel></rss>

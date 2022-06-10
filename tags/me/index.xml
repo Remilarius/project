@@ -1,13 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ME on Joy Lin</title><link>https://remilarius.github.io/project/tags/me/</link><description>Recent content in ME on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/tags/me/index.xml" rel="self" type="application/rss+xml"/><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
-Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
-&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
-&lt;h3 id="team">Team&lt;/h3>
-&lt;ul>
-&lt;li>Saba Zerefa&lt;/li>
-&lt;li>Stephon Fagan-Avery&lt;/li>
-&lt;/ul>
-&lt;h3 id="mentor">Mentor&lt;/h3>
-&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>Landing</title><link>https://remilarius.github.io/project/posts/post1/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/post1/</guid><description>testestsetset
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ME on Joy Lin</title><link>https://remilarius.github.io/project/tags/me/</link><description>Recent content in ME on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/tags/me/index.xml" rel="self" type="application/rss+xml"/><item><title>Landing</title><link>https://remilarius.github.io/project/posts/post1/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/posts/post1/</guid><description>testestsetset
 hello I&amp;rsquo;m trying to add an image
 image gallery and figure settings
 testest
@@ -287,6 +278,7 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;figcaption class="teams" style="width:48%;float:left;"> Joy Lin, ME &lt;/figcaption>
 &lt;figcaption class="teams" style="width:48%;float:right"> Umar Padela, ME &lt;/figcaption>
 &lt;/figure>
+&lt;!---
 &lt;script src="https://utteranc.es/client.js"
 repo="remilarius/project"
 issue-term="pathname"
@@ -298,7 +290,16 @@ Prototype 1:
 Tube mounted on a piece of wood with one copper coil in the middle.</description><content>&lt;p>I&amp;rsquo;m not suppose to call it a railgun.&lt;/p>
 &lt;!---->
 &lt;p>Prototype 1:&lt;/p>
-&lt;p>Tube mounted on a piece of wood with one copper coil in the middle.&lt;/p></content></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
+&lt;p>Tube mounted on a piece of wood with one copper coil in the middle.&lt;/p></content></item><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
+Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
+&lt;h3 id="team">Team&lt;/h3>
+&lt;ul>
+&lt;li>Saba Zerefa&lt;/li>
+&lt;li>Stephon Fagan-Avery&lt;/li>
+&lt;/ul>
+&lt;h3 id="mentor">Mentor&lt;/h3>
+&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
 Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.</description><content>&lt;p>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.&lt;/p>
 &lt;p>Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.&lt;/p>
 &lt;p>We placed 3rd!&lt;/p></content></item></channel></rss>

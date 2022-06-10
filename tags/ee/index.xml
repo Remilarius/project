@@ -278,6 +278,7 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;figcaption class="teams" style="width:48%;float:left;"> Joy Lin, ME &lt;/figcaption>
 &lt;figcaption class="teams" style="width:48%;float:right"> Umar Padela, ME &lt;/figcaption>
 &lt;/figure>
+&lt;!---
 &lt;script src="https://utteranc.es/client.js"
 repo="remilarius/project"
 issue-term="pathname"
@@ -299,5 +300,7 @@ Tube mounted on a piece of wood with one copper coil in the middle.</description
 &lt;h2 id="project-proposal-link">Project Proposal (Link)&lt;/h2>
 &lt;/div>
 &lt;p>&lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vS2VtR-92DV8MV5W7PiySZyEAumQekZMxd2gFjxtEyxfaAwT-UWyuvNeHiN52TXmZelfxRNwdc_Hd9l/pub?embedded=true" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p>
+&lt;div style="text-align: center; color:cadetblue;">
 &lt;h2 id="final-paper-link">Final Paper (Link)&lt;/h2>
+&lt;/div>
 &lt;p>&lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vSdG7pGJCZvpeBhnReL0hcKMxPPlWlh2xvDdq3upJkS4qMTUfhn_HbqPbqqHS45WmL7YVNmSITqQYCq/pub?embedded=true" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p></content></item></channel></rss>
