@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Harvard Maker's Collective</title><link>https://remilarius.github.io/project/hmc/hmc/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/hmc/hmc/</guid><description>Project List
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Joy Lin</title><link>https://remilarius.github.io/project/</link><description>Recent content on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
+Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
+&lt;h3 id="team">Team&lt;/h3>
+&lt;ul>
+&lt;li>Saba Zerefa&lt;/li>
+&lt;li>Stephon Fagan-Avery&lt;/li>
+&lt;/ul>
+&lt;h3 id="mentor">Mentor&lt;/h3>
+&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>Harvard Maker's Collective</title><link>https://remilarius.github.io/project/hmc/hmc/</link><pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/hmc/hmc/</guid><description>Project List
 Split flap display</description><content>&lt;p>Project List&lt;/p>
 &lt;!----->
 &lt;ol>
@@ -113,8 +122,9 @@ I usually address my writing to a hypothetical somebody, but I don&amp;rsquo;t t
 &lt;li>The Arboretum&lt;/li>
 &lt;li>ProvinceTown&lt;/li>
 &lt;li>Fishkill/Poughkeepsie&lt;/li>
-&lt;/ul></content></item><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>Pre-face This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
-Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.</description><content>&lt;h2 id="pre-face">Pre-face&lt;/h2>
+&lt;/ul></content></item><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>Under Construction Pre-face This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
+Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.</description><content>&lt;h1 id="under-construction">Under Construction&lt;/h1>
+&lt;h2 id="pre-face">Pre-face&lt;/h2>
 &lt;p>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.&lt;/p>
 &lt;p>Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.&lt;/p>
 &lt;p>Umar contacted me mid-semester about also weanting to build an e-bike. At this point, I had given up hope on getting nectar funding to build the bike and bought a Jetson Bolt Pro. I told him what I knew and to give it a try and send Rachel an email.&lt;/p>
@@ -328,9 +338,9 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;p>&lt;a href="https://www.amazon.com/gp/product/B07886QXKG/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&amp;amp;th=1">GLX Helmet, Amazon&lt;/a>&lt;/p>
 &lt;figure>
 &lt;img class="center" src="https://remilarius.github.io/project/img/umarbasebike.jpeg" width= "49%" style= "float:left"/>
-&lt;img class="center" src="https://remilarius.github.io/project/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
+&lt;img class="right" src="https://remilarius.github.io/project/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
 &lt;figcaption style="width:49%;float:left;"> 26" Schwinn Sidewinder MTB &lt;/figcaption>
-&lt;figcaption style="width:49%;float:right;"> 24" Mongoose Excursion MTB &lt;/figcaption>
+&lt;figcaption style="width:49%;float:right;"> 24" Schwinn Sidewinder MTB &lt;/figcaption>
 &lt;/figure>
 &lt;div style="text-align: center; color:cadetblue;">
 &lt;h2 id="our-bill-of-materials-spreadsheet">Our Bill of Materials Spreadsheet&lt;/h2>
@@ -633,10 +643,14 @@ $$&lt;/p></content></item><item><title>Emoji Support</title><link>https://remila
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></content></item><item><title>About me</title><link>https://remilarius.github.io/project/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/about/</guid><description>Hello there!
 My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.
 I live in Claverly Hall in Adams House.
-This is my project page for all the projects I&amp;rsquo;ve done during my time at college.</description><content>&lt;p>Hello there!&lt;/p>
+This is my project page for all the projects I&amp;rsquo;ve done during my time at college.
+You can reach me at:
+Email - jialin@college.harvard.edu</description><content>&lt;p>Hello there!&lt;/p>
 &lt;p>My name&amp;rsquo;s Joy and I&amp;rsquo;m a junior studying Mechanical Engineering at Harvard College.&lt;/p>
 &lt;p>I live in Claverly Hall in Adams House.&lt;/p>
-&lt;p>This is my project page for all the projects I&amp;rsquo;ve done during my time at college.&lt;/p></content></item><item><title>HUA</title><link>https://remilarius.github.io/project/studentgov/hua/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/hua/</guid><description> Anarchy</description><content>&lt;ol>
+&lt;p>This is my project page for all the projects I&amp;rsquo;ve done during my time at college.&lt;/p>
+&lt;p>You can reach me at:&lt;/p>
+&lt;p>Email - &lt;a href="mailto:jialin@college.harvard.edu">jialin@college.harvard.edu&lt;/a>&lt;/p></content></item><item><title>HUA</title><link>https://remilarius.github.io/project/studentgov/hua/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/studentgov/hua/</guid><description> Anarchy</description><content>&lt;ol>
 &lt;li>Anarchy&lt;/li>
 &lt;/ol>
 &lt;!-- {{ if isset $.Site.Params "favicon" }}
@@ -730,7 +744,18 @@ url = "/studentgov"
 [markup]
 [markup.goldmark]
 [markup.goldmark.renderer]
-unsafe = true --></content></item><item><title>Minecraft Bee Drone</title><link>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</guid><description/><content/></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
+unsafe = true --></content></item><item><title>Minecraft Bee Drone</title><link>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/minecraftbeedrone/</guid><description> Video Project Proposal (Link) Final Paper (Link)</description><content>&lt;div style="text-align: center; color:cadetblue;">
+&lt;h2 id="video">Video&lt;/h2>
+&lt;/div>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/fPaai7JvKqw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;div style="text-align: center; color:cadetblue;">
+&lt;h2 id="project-proposal-link">Project Proposal (Link)&lt;/h2>
+&lt;/div>
+&lt;p>&lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vS2VtR-92DV8MV5W7PiySZyEAumQekZMxd2gFjxtEyxfaAwT-UWyuvNeHiN52TXmZelfxRNwdc_Hd9l/pub?embedded=true" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p>
+&lt;h2 id="final-paper-link">Final Paper (Link)&lt;/h2>
+&lt;p>&lt;iframe src="https://docs.google.com/document/d/e/2PACX-1vSdG7pGJCZvpeBhnReL0hcKMxPPlWlh2xvDdq3upJkS4qMTUfhn_HbqPbqqHS45WmL7YVNmSITqQYCq/pub?embedded=true" frameborder="0" width="100%" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>&lt;/p></content></item><item><title>The CAD Board: Recinditas</title><link>https://remilarius.github.io/project/classprojects/es51/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/classprojects/es51/</guid><description>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.
 Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.</description><content>&lt;p>The team name comes from a great combination of CAD (Computer-Aided Design) and Harvard College&amp;rsquo;s Ad Board, which oversees academic and disciplinary cases. The robot name is taken from one of the many things with the suffix -itas, which is prevalent across campus, &amp;ldquo;veritas&amp;rdquo;, &amp;ldquo;securitas&amp;rdquo;, &amp;ldquo;sanitas&amp;rdquo;, and the thing pre-frosh joke about before coming to campus, &amp;ldquo;recinditas&amp;rdquo; or having their acceptance recinded.&lt;/p>
 &lt;p>Sadly, right before the bulk of our robot was suppose to be built, COVID-19 happened.&lt;/p>
 &lt;p>We placed 3rd!&lt;/p></content></item></channel></rss>

@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalprojects on Joy Lin</title><link>https://remilarius.github.io/project/personalprojects/</link><description>Recent content in Personalprojects on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>Pre-face This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
-Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.</description><content>&lt;h2 id="pre-face">Pre-face&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Personalprojects on Joy Lin</title><link>https://remilarius.github.io/project/personalprojects/</link><description>Recent content in Personalprojects on Joy Lin</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://remilarius.github.io/project/personalprojects/index.xml" rel="self" type="application/rss+xml"/><item><title>Interlock</title><link>https://remilarius.github.io/project/personalprojects/interlock/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/interlock/</guid><description>Introduction I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood
+Team Saba Zerefa Stephon Fagan-Avery Mentor Dr. Michelle Rosen</description><content>&lt;h3 id="introduction">Introduction&lt;/h3>
+&lt;p>I came across the idea of making lasercut mechanisms when I saw UGears contraptions, which were elaborate creations made of designs cut into sheets of wood&lt;/p>
+&lt;h3 id="team">Team&lt;/h3>
+&lt;ul>
+&lt;li>Saba Zerefa&lt;/li>
+&lt;li>Stephon Fagan-Avery&lt;/li>
+&lt;/ul>
+&lt;h3 id="mentor">Mentor&lt;/h3>
+&lt;p>Dr. Michelle Rosen&lt;/p></content></item><item><title>E-Bike</title><link>https://remilarius.github.io/project/personalprojects/ebike/</link><pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate><guid>https://remilarius.github.io/project/personalprojects/ebike/</guid><description>Under Construction Pre-face This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.
+Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.</description><content>&lt;h1 id="under-construction">Under Construction&lt;/h1>
+&lt;h2 id="pre-face">Pre-face&lt;/h2>
 &lt;p>This project was a long time in the making. During the pandemic, I was in want of exercise but my mother was too cautious to confortably let me ride my bike outside. I thought about building an indoor excercise bike that would generate electricity, and as an extra feature, generate electricity.&lt;/p>
 &lt;p>Coming back to campus, I had looked forward to getting nectar funding to build the bike. Unfortunately, since we were remote for a year due to the pandemic, a lot of programs kind of fell by the wayside, and with nectar being one of them.&lt;/p>
 &lt;p>Umar contacted me mid-semester about also weanting to build an e-bike. At this point, I had given up hope on getting nectar funding to build the bike and bought a Jetson Bolt Pro. I told him what I knew and to give it a try and send Rachel an email.&lt;/p>
@@ -213,9 +223,9 @@ Coming back to campus, I had looked forward to getting nectar funding to build t
 &lt;p>&lt;a href="https://www.amazon.com/gp/product/B07886QXKG/ref=ox_sc_saved_title_5?smid=ATVPDKIKX0DER&amp;amp;th=1">GLX Helmet, Amazon&lt;/a>&lt;/p>
 &lt;figure>
 &lt;img class="center" src="https://remilarius.github.io/project/img/umarbasebike.jpeg" width= "49%" style= "float:left"/>
-&lt;img class="center" src="https://remilarius.github.io/project/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
+&lt;img class="right" src="https://remilarius.github.io/project/img/joybasebike.jpeg" width= "49%" style= "float:right"/>
 &lt;figcaption style="width:49%;float:left;"> 26" Schwinn Sidewinder MTB &lt;/figcaption>
-&lt;figcaption style="width:49%;float:right;"> 24" Mongoose Excursion MTB &lt;/figcaption>
+&lt;figcaption style="width:49%;float:right;"> 24" Schwinn Sidewinder MTB &lt;/figcaption>
 &lt;/figure>
 &lt;div style="text-align: center; color:cadetblue;">
 &lt;h2 id="our-bill-of-materials-spreadsheet">Our Bill of Materials Spreadsheet&lt;/h2>
