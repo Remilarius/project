@@ -52,6 +52,11 @@ It's just me against the world in every way and I'm alone. I'm alone and I'm so 
 - Buy her a mechanical keyboard
 - Carve a zhuanghe for her (Done)
 
+## Things to do with Grace
+
+- Visit Japan
+- Go spearfishing
+
 ## Places to go with Grace (& Co.!)
 
 - Encore Casino & Hotel
